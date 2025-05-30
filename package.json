@@ -1,7 +1,7 @@
 {
-  "name": "outside",
+  "name": "sleepoutside",
   "version": "1.0.0",
-  "description": "Boilerplate for WDD 330 SleepOutside project",
+  "description": " SleepOutside project",
   "main": "main.js",
   "scripts": {
     "start": "snowpack dev",
@@ -11,7 +11,7 @@
     "test": "jest",
     "babel": "babel src -d dist"
   },
-  "author": "Shane Thompson",
+  "author": "Charles Hemedi",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.12.1",
@@ -39,11 +39,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/calvin3oo/wdd330.git"
+    "url": "git+https://github.com/Hemedi12/wdd330-sleepoutside.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/calvin3oo/wdd330/issues"
+    "url": "https://github.com/Hemedi12/wdd330-sleepoutside.git/issues"
   },
-  "homepage": "https://github.com/calvin3oo/wdd330#readme"
+  "homepage": "https://github.com/Hemedi12/wdd330-sleepoutside#readme"
 }
