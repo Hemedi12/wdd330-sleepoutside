@@ -1,9 +1,12 @@
-import ProductData from "./productData.js";
-import ProductDetails from "./productDetails.js";
-import { getParam } from "./utils.js";
+import { getParam, loadHeaderFooter } from "./utils.mjs";
+import ExternalServices from "./ExternalServices.mjs";
+import ProductDetails from "./ProductDetails.mjs";
 
+loadHeaderFooter();
+
+const dataSource = new ExternalServices("tents");
 const productId = getParam("product");
-const dataSource = new ProductData("tents");
 
 const product = new ProductDetails(productId, dataSource);
+
 product.init();
