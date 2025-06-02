@@ -1,5 +1,8 @@
-# Sleep Outside
+# Sleep Outside individual project
 
+## Randomized production URL
+
+<https://ubiquitous-malasada-4d8170.netlify.app/>
 
 ## Description
 
@@ -7,7 +10,7 @@ Use this as a starting point to complete the WDD 330 team activity: the SleepOut
 
 ## Prerequisites
 
-- You must have Node installed. visit https://byui-cit.github.io/advcss/lesson01/l01-software.html and skip to the Node section for instructions
+- You must have Node installed. visit <https://byui-cit.github.io/advcss/lesson01/l01-software.html> and skip to the Node section for instructions
 
 ## Setup
 
@@ -19,4 +22,3 @@ Use this as a starting point to complete the WDD 330 team activity: the SleepOut
 - `npm run build` to build final files when you are ready to turn in.
 - `npm run lint` to run ESLint against your code to find errors.
 - `npm run format` to run Prettier to automatically format your code.
-
